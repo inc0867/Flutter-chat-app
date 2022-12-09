@@ -24,3 +24,9 @@ You dont need pub-get
 <a href="https://github.com/inc0867/Flutter-chat-app/blob/main/lib/userSettings.dart">Settings page</a>
 # About
 Written by inc0867
+
+[<img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" width="250"/>](https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg)
+
+
+[<img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width="250"/>](https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg)
+
